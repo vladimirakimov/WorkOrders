@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <DebugType>Full</DebugType>
+    <ProjectGuid>{10300000-0000-0000-0000-000000000000}</ProjectGuid>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Model\Operational\HandledUnit\**" />
+    <EmbeddedResource Remove="Model\Operational\HandledUnit\**" />
+    <None Remove="Model\Operational\HandledUnit\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ITG.Brix.Diagnostics.Guards" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>

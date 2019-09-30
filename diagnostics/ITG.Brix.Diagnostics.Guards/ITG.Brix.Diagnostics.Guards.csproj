@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>eOrder Team</Authors>
+    <Company>KATOEN NATIE</Company>
+    <Description>eOrder unified guard strategy.</Description>
+    <Copyright>© 2019 eOrder Team</Copyright>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>

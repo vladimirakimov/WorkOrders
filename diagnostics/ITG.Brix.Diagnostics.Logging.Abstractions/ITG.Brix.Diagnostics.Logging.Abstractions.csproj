@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>eOrder Team</Authors>
+    <Company>KATOEN NATIE</Company>
+    <Description>eOrder logging abstraction.</Description>
+    <Copyright>© eOrder Team.</Copyright>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>logging</PackageTags>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/BrixEOrderWorkOrders" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="ITG.Brix.WorkOrders.API_InstanceCount" Value="1" />
+    <Parameter Name="ApplicationInsightsKey" Value="b681d9a5-4dc2-40f7-9e8d-a227faa9ac93" />
+    <Parameter Name="ASPNETCORE_ENVIRONMENT" Value="Staging" />
+    <Parameter Name="DatabaseConnectionString" Value="mongodb://s-be-ki-brixdev:27017" />
+    <Parameter Name="BiztalkHost" Value="http://s-be-ki-btst1" />
+  </Parameters>
+</Application>

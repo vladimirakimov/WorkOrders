@@ -1,0 +1,15 @@
+﻿<SolutionConfiguration>
+  <Settings>
+    <MetricsExclusionList>
+      <Value>ITG.Brix.WorkOrders.UnitTests.API\ITG.Brix.WorkOrders.UnitTests.API.csproj</Value>
+      <Value>ITG.Brix.WorkOrders.UnitTests.API.Context\ITG.Brix.WorkOrders.UnitTests.API.Context.csproj</Value>
+      <Value>ITG.Brix.WorkOrders.UnitTests.Application\ITG.Brix.WorkOrders.UnitTests.Application.csproj</Value>
+      <Value>ITG.Brix.WorkOrders.UnitTests.Domain\ITG.Brix.WorkOrders.UnitTests.Domain.csproj</Value>
+      <Value>ITG.Brix.WorkOrders.UnitTests.Infrastructure\ITG.Brix.WorkOrders.UnitTests.Infrastructure.csproj</Value>
+      <Value>ITG.Brix.WorkOrders.IntegrationTests.Infrastructure\ITG.Brix.WorkOrders.IntegrationTests.Infrastructure.csproj</Value>
+      <Value>ITG.Brix.WorkOrders.IntegrationTests.Application\ITG.Brix.WorkOrders.IntegrationTests.Application.csproj</Value>
+      <Value>ITG.Brix.WorkOrders.IntegrationTests\ITG.Brix.WorkOrders.IntegrationTests.csproj</Value>
+    </MetricsExclusionList>
+    <SolutionConfigured>True</SolutionConfigured>
+  </Settings>
+</SolutionConfiguration>
